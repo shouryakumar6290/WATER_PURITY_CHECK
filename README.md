@@ -1,4 +1,4 @@
-💧 Water Quality Prediction System
+ Water Quality Prediction System
 
 An intelligent Machine Learning-based Water Quality Prediction System that analyzes multiple chemical and physical water quality parameters to determine whether water is Safe ✅ or Unsafe ❌ for drinking.
 
@@ -125,15 +125,7 @@ Safe / Unsafe Result
 Confidence Score + Recommendations
         ↓
 Visualization & Risk Analysis
-⚙️ Installation
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/water-quality-prediction.git
-2️⃣ Navigate to Project Directory
-cd water-quality-prediction
-3️⃣ Install Required Libraries
-pip install -r requirements.txt
-4️⃣ Run the Project
-python main.py
+
 📁 Project Structure
 Water-Quality-Prediction/
 │
