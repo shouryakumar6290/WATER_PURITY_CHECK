@@ -1,4 +1,4 @@
-Water Quality Prediction System
+# Water Quality Prediction System
 
 An intelligent Machine Learning-based Water Quality Prediction System that analyzes multiple chemical and physical water quality parameters to determine whether water is Safe ✅ or Unsafe ❌ for drinking.
 
